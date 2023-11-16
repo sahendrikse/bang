@@ -1,4 +1,4 @@
-# Bronze-Age Network Graph (BANG) - Alpha 0.0a [Updated Nov 2023]
+# Bronze-Age Network Graph (BANG) - Pre-Alpha 0.0a [Updated Nov 2023]
 
 BANG will be an interactive tool used to display relationships of actors within bronze-age history. It consists of a visualisation generated using the NetworkX python library, with Nodes (actors), and Edges (Letters, Treatise, Trade), displaying the concept of globalisation prevalent in bronze-age history.
 
@@ -10,9 +10,11 @@ The idea is to display information links regarding different important actors th
 
 # Project Phases
 
-## Alpha - Nov 2023
+## Pre-alpha - Nov 2023
 
 Phase will finish once the dataset has been completed, published, with a working minimal interactive front-end.
+
+## Alpha - tba
 
 ## Beta - tba
 
